@@ -197,8 +197,8 @@ to {
 }
 .practice-item .item-side {
 	display: block;
-	width: 388px;
-	height: 388px;
+	width: 200px;
+	height: 200px;
 	border-radius: 50%;
 	border: 1px solid #5c5b5a;
 	background: #f4f4f4;
